@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
-
 ## Hi there 👋
 
 <!--
@@ -34,6 +31,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p> -->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
 ### 📫 Let's Connect!
 
