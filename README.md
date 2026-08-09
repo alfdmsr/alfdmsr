@@ -17,12 +17,6 @@
 
 Saya seorang mahasiswa dan praktisi *machine learning* yang senang **membedah cara kerja sesuatu dari akarnya** — mulai dari mengimplementasikan arsitektur Transformer manual dengan NumPy, membangun model regresi linear dari nol, hingga merancang pipeline MLOps otomatis dengan MLflow, Docker, dan GitHub Actions.
 
-- 🔭 Saat ini sedang fokus pada eksplorasi **Machine Learning** dan **MLOps** (CI/CD untuk model ML).
-- 🌱 Sedang memperdalam **arsitektur Deep Learning** (Transformer & Attention Mechanism) dan praktik **software engineering** yang rapi.
-- 🎯 Percaya bahwa cara terbaik memahami suatu algoritma adalah dengan mengimplementasikannya sendiri dari awal, bukan sekadar memanggil `.fit()`.
-- 💬 Ajak diskusi soal *machine learning*, data science, atau perkembangan AI.
-- 📫 Cara menghubungi saya ada di bagian bawah profil ini.
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -44,7 +38,7 @@ Saya seorang mahasiswa dan praktisi *machine learning* yang senang **membedah ca
 | **Bahasa** | Python, Java, C |
 | **Machine Learning** | scikit-learn, NumPy, Pandas, MLflow |
 | **Deep Learning** | PyTorch/NumPy (implementasi arsitektur dari scratch) |
-| **Database** | MySQL |
+| **Database** | MySQL, PostgreSQL, InfluxDB | 
 | **DevOps & Tools** | Docker, GitHub Actions (CI/CD), Git, Google Colab |
 | **Desktop Development** | JavaFX |
 
