@@ -3,7 +3,7 @@
 <h1>Hi there, I'm Alif Masrur 👋</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Data+%26+Software+Engineering;Building+from+scratch+to+understand+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=550&lines=AI+Enthusiast;Data+%26+Software+Engineering;Building+from+scratch+to+understand" alt="Typing SVG" />
 </a>
 
 <p>
