@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=200&section=header&text=Hi%20There,%20I'm%20Almas&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20%26%20Software%20Engineering&descAlignY=65&descSize=18" alt="Hi There, I'm Almas" />
+  <img width="1067" height="142" alt="ascii-art-text" src="https://github.com/user-attachments/assets/4e8b86f9-268e-45da-8e5e-b1abb1955d5e" />
 </p>
+
 
 <p align="center">
   <i>I like building things from scratch to really understand how they work — from Transformer architectures to MLOps pipelines.</i>
