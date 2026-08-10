@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <i> *[Where Bare Metal Meets Artificial Minds]*
+  <i>## *Where Bare Metal Meets Artificial Minds]
 
     > _"Why spend 5 minutes using a library when I can spend 5 weeks building it from scratch?"_</i>
 
