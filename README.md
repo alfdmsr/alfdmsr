@@ -52,6 +52,6 @@ JSON         1 hr 15 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
 </p>
 
-<p align="center">
+<div align="center">
   ![snake gif](https://github.com/alfdmsr/alfdmsr/blob/output/github-snake-dark.svg)  
-</p>
+</div>
