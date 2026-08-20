@@ -4,15 +4,16 @@
 
 
 <p align="center">
-  <i> [Where Bare Metal Meets Artificial Minds]
+  <i> [Where Bare Metal Meets Artificial Minds]</i>
+</p>
 
-> _"Why spend 5 minutes using a library when I can spend 5 weeks building it from scratch?"_</i>
-
+<p align="center">
+ <b>"Why spend 5 minutes using a library when I can spend 5 weeks building it from scratch?"</b>
 </p>
 
 <br>
 
-**This week i spent my time on:**
+## **This week i spent my time on:**
 
 <!--START_SECTION:waka-->
 
